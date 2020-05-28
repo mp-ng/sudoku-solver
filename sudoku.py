@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 28 18:09:14 2020
-
-@author: ngmingpok
-"""
 import time
 sample_board = [
         [7, 8, " ", 4, " ", " ", 1, 2, " "],
@@ -115,7 +108,3 @@ def execute():
     print(" \nTime used:", end_time, "seconds")
     
 execute()
-
-x = time.time()
-y = time.time()
-print(y-x)
