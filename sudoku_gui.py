@@ -124,7 +124,7 @@ class Grid:
             row, col = find
 
         for i in range(1, 10):
-            if valid(self.model, i, (row, col)):
+            if valid(self.model, (row, col), i):
                 self.model[row][col] = i
                 self.cubes[row][col].set(i)
                 self.cubes[row][col].draw_change(self.win, True)
