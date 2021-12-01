@@ -13,9 +13,9 @@ Includes a text version and a GUI version using Pygame.
 # Installation 💻
 To install Pygame, use the following command:
 ```
-python3 -m pip install -U pygame --user \
+python3 -m pip install -U pygame --user
 ```
-To see if it works, run one of the included examples: \
+To see if it works, run one of the included examples:
 ```
 python3 -m pygame.examples.aliens
 ```
