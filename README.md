@@ -1,6 +1,6 @@
 # Sudoku Solver
 Sudoku puzzle solver using recursion. Includes a text version and a GUI version using Pygame.\
-<centre><img src = "./sudoku.png" width=400></centre>
+<p align="center"><img src = "./sudoku.png" width=400></p>
 
 # Guide to Sudoku GUI
 - Click a box and input a number to pencil in your choice.
