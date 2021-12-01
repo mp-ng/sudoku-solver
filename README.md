@@ -11,7 +11,7 @@ Includes a text version and a GUI version using Pygame.
 - Finally, if you would like the board to be solved, click [SPACE].
 
 # Installation
-To install Pygame, use the following command: &nbsp;
-python3 -m pip install -U pygame --user &nbsp;
-To see if it works, run one of the included examples: &nbsp;
+To install Pygame, use the following command: \
+python3 -m pip install -U pygame --user \
+To see if it works, run one of the included examples: \
 python3 -m pygame.examples.aliens
