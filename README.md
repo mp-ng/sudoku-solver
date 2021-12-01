@@ -1,5 +1,5 @@
 # Sudoku Solver
-Sudoku puzzle solver using recursion. Includes a text version and a GUI version using Pygame.\
+Sudoku puzzle solver using recursion. Includes a text version and a GUI version using Pygame.
 <p align="center"><img src = "./sudoku.png" width=400></p>
 
 # Guide to Sudoku GUI
