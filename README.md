@@ -1,5 +1,5 @@
 # Sudoku Solver ✏️
-Sudoku puzzle solver using recursion.
+Sudoku puzzle solver using recursion. &nbsp;
 Includes a text version and a GUI version using Pygame. &nbsp;
 
 <img src = "./sudoku.png" width=400>
@@ -11,7 +11,7 @@ Includes a text version and a GUI version using Pygame. &nbsp;
 - Finally, if you would like the board to be solved, click [SPACE].
 
 # Installation
-To install Pygame, use the following command:
-python3 -m pip install -U pygame --user
-To see if it works, run one of the included examples:
+To install Pygame, use the following command: &nbsp;
+python3 -m pip install -U pygame --user &nbsp;
+To see if it works, run one of the included examples: &nbsp;
 python3 -m pygame.examples.aliens
